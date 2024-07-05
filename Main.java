@@ -1,9 +1,6 @@
 import java.util.Scanner;
 
 // Ansh Chaudhary -- 21124007
-// Ojasva Gupta  --  21124036
-// Nakshatra ShivHare -- 21124032
-// Abhishek KUmar Maurya -- 21124002
 
 // when received amount != stated amount.
 class valueNotSameError extends Exception {
